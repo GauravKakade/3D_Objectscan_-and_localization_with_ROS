@@ -1,1 +1,1 @@
-3D_Objectscan_-and_localization_with_ROS
+3D Objectscan and localization with ROS
