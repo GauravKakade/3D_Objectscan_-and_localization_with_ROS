@@ -12,6 +12,9 @@ In the Remote PC you will need the following packages for running the object det
 
 In Jetson Nano you need vidgear, pyrealsense2, numpy, cv2, imagiz, rospy
 
+
+## Steps for Implementation
+
 Step 1) Open a Terminator. Create four cells. 
 In first cell run roscore. 
 In second SSH Jetson Nano. 
