@@ -1,6 +1,8 @@
-3D Objectscan and localization with ROS
+#3D Objectscan and localization with ROS
 
+Copy the - object_detection folder
 
+Step 1) Open a Terminator. 
 
 
 
