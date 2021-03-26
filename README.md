@@ -2,9 +2,10 @@
 
 ## Copy files to respective devices
 
-Copy the object_detection folder, final_position_generation.py file to any folder in Ubuntu 18.04 [Remote PC]. 
-Copy the zelle_searcher package in the catkin workspace and do catkin make [Remote PC].
-Copy the SendframesfromJetson.py to your Jetson Nano.
+1) Copy the object_detection folder, final_position_generation.py file to any folder in Ubuntu 18.04 [Remote PC]. 
+2) Copy the zelle_searcher package in the catkin workspace and do catkin make [Remote PC].
+3) Copy the contents of Map folder to your home directory or any other directory(you have to give the path to the map while running 'turtlebot3_navigation turtlebot3_navigation.launch' node) [Remote PC]. 
+4) Copy the SendframesfromJetson.py to your Jetson Nano [Jetson Nano].
 
 ## Libraries installations
 
